@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Step5.Inheritance", "Step5.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Step5.Inheritance.Interfaces", "Step5.Inheritance.Interfaces\Step5.Inheritance.Interfaces.csproj", "{A7481B12-11CC-4F0B-8285-DEC77B6E0789}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Slide", "Slide", "{37DE5195-B02E-4DB8-BC18-E00D147B4E29}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Desktop\Inheritance.pptx = ..\..\..\Desktop\Inheritance.pptx
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
